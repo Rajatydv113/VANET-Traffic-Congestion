@@ -1,0 +1,6 @@
+Time Step,Vehicle ID,Current Road,Destination Road,Original Route,Alternative Route,Avoids Congestion,Estimated Travel Time (s)
+105,28,A1B1,C0B0,A1B1 -> B1C1 -> C1C0 -> C0B0,A1B1 -> B1B0 -> B0C0 -> C0B0,Yes,140.42
+105,33,A1B1,A0A1,A2A1 -> A1B1 -> B1B0 -> B0A0 -> A0A1,A1B1 -> B1A1 -> A1A0 -> A0A1,Yes,140.42
+105,4,A1B1,A0A1,B1A1 -> A1B1 -> B1B0 -> B0A0 -> A0A1,A1B1 -> B1A1 -> A1A0 -> A0A1,Yes,140.42
+105,5,A1B1,B1B2,A2A1 -> A1B1 -> B1B2,A1B1 -> B1B2,Yes,69.92
+105,8,A1B1,B2A2,A2A1 -> A1B1 -> B1B2 -> B2A2,A1B1 -> B1B2 -> B2A2,Yes,105.17
