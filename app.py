@@ -224,7 +224,7 @@ def recommend_routes(traffic):
 # 7. DASHBOARD HEADER
 # ==========================================
 
-st.title("🚗 VANET Traffic Congestion Detection")
+st.title("VANET Traffic Congestion Detection")
 
 st.caption(
     "Academic prototype for simulated vehicle communication, "
@@ -512,7 +512,7 @@ if data_source == "SUMO Simulation":
     # ==========================================
 
     st.divider()
-    st.subheader("🛣️ Congestion-Aware Route Recommendations")
+    st.subheader("Congestion-Aware Route Recommendations")
 
     st.caption(
         "Recommendations are loaded from route_recommendations.csv, "
